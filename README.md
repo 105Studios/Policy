@@ -1,25 +1,26 @@
 # Privacy Policy
 Last updated: October 30, 2023  
 
-This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use our services and tells you about your privacy rights and how the law protects you.
+This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use our services.
 We may use your personal data to provide and improve our service. By using our applications, you agree to the collection and use of information in accordance with this Privacy Policy.
+
 ## Interpretation and Definitions  
 ### Interpretation  
 <p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
 <h2>Definitions</h2>
-<p>For the purposes of this Privacy Policy:</p>
+For the purposes of this Privacy Policy:
 <ul>
 <li>
-<p><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>
+<p><strong>Account</strong> means a unique account created for you to access our Service or parts of our Service.</p>
 </li>
 <li>
 <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
 </li>
 <li>
-<p><strong>Application</strong> refers to AndroidApp, the software program provided by the Company.</p>
+<p><strong>Application</strong> refers to an Application created or owned by 105Studios, the software program provided by this same company.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Studio, None.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to 105Studios.</p>
 </li>
 <li>
 <p><strong>Country</strong> refers to: Quebec,  Canada</p>
@@ -85,7 +86,7 @@ We may use your personal data to provide and improve our service. By using our a
 </ul>
 <p>We may share Your personal information in the following situations:</p>
 <ul>
-<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.</li>
+<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.</li>
 <li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>
 <li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
 <li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>
@@ -133,5 +134,5 @@ We may use your personal data to provide and improve our service. By using our a
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: email</li>
+<li>By email: 105studioserv@gmail.com</li>
 </ul>
