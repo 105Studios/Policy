@@ -1,5 +1,5 @@
 # Privacy Policy
-Last update: April 14, 2024  
+Last update: March 26, 2025  
 
 This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use our services.
 We may use your personal data to provide and improve our service. By using our applications, you agree to the collection and use of information in accordance with this Privacy Policy.
